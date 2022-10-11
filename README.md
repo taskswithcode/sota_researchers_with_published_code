@@ -102,7 +102,7 @@ _Images (Github profile photos) below link to newsletters summarizing the work o
 </p>
 <br/>
 <img src="researchers/divider.png"   width="1000px"/>
-<p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8–14 August 20222</a></p>
+<p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8 – 14 August 20222</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/Jingyun Liang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/Zhendong Wang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
@@ -121,7 +121,7 @@ _Images (Github profile photos) below link to newsletters summarizing the work o
 </p>
 <br/>
 <img src="researchers/divider.png"   width="1000px"/>
-<p><a href="https://taskswithcode.ghost.io/twc-issue-1-2/">5–7 August 2022 August 2022</a></p>
+<p><a href="https://taskswithcode.ghost.io/twc-issue-1-2/">5 – 7 August 2022</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/zhihaolee_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/>
 <a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/aaronWool_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
