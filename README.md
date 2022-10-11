@@ -130,8 +130,6 @@ _Images (Github profile photos) below link to newsletters summarizing the work o
 </p>
 <br/>
 <br/>
-<br/>
-
 ###### _Apologies in advance in case we missed a SOTA paper released with code, for the date ranges below. If so, please email us at [twc@taskswithcode.com](mailto:twc@taskswithcode.com?subject=[GitHub]%20Missing%20mention)_
 
 
