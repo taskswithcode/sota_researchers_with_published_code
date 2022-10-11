@@ -3,7 +3,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 - authored their paper
 - released their code
 - released models in most cases
-- released notebooks/apps in few cases
+- released notebooks/demo apps in few cases
 
 _Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
 
