@@ -88,6 +88,20 @@ _Apologies in advance if we have missed a SOTA paper released with code for the 
 <a href="https://taskswithcode.ghost.io/twc-4/"><img src="researchers/tayoola.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-4/"><img src="researchers/Andrey Savchenko.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
 </p>
+<br/>
+<img src="researchers/divider.png"   width="1000px"/>
+<p><a href="https://taskswithcode.ghost.io/twc-3/">15–21 August 2022</a></p>
+<p>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Jg-Zhu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/hulianyu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Sanghyun Jo.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Edward Sanderson.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Jin-Hwa Kim.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Yuyuan Liu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/ME495.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+</p>
+
+
 
 
 
