@@ -5,7 +5,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 - released models in most cases
 - released notebooks/apps in few cases
 
-_Images (Github profile photos) below link to newsletters summarizing the work of these researchers_
+_Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
 
 
 <img src="researchers/divider.png"   width="1000px"/>
