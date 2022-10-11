@@ -24,12 +24,12 @@ _Apologies in advance if we have missed a SOTA paper released with code for the 
 <img src="researchers/divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-9-2/">26 Sept – 2 Oct 2022</a></p>
 <p>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Haobo Wang.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/KaiWU5.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/LinChen.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Shell Hu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Daniel Shalam.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/StomachCold_Liang.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Taehun Kim.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Junyeong.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/drinkingcoder.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Riccardo La Grassa.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Antoine Yang.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/Zixiang Zhou.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
 </p>
 <br/>
 <img src="researchers/divider.png"   width="1000px"/>
