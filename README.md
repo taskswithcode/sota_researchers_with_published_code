@@ -7,8 +7,6 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
 _Images (Github profile photos) below link to newsletters summarizing the work of these researchers_
 
-###### _Apologies in advance in case we missed a SOTA paper released with code, for the date ranges below. If so, please email us at [twc@taskswithcode.com](mailto:twc@taskswithcode.com?subject=[GitHub]%20Missing%20mention)_
-
 
 <img src="researchers/divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
@@ -130,6 +128,8 @@ _Images (Github profile photos) below link to newsletters summarizing the work o
 <a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/nhshin-mcl_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 </a>
 </p>
+
+###### _Apologies in advance in case we missed a SOTA paper released with code, for the date ranges below. If so, please email us at [twc@taskswithcode.com](mailto:twc@taskswithcode.com?subject=[GitHub]%20Missing%20mention)_
 
 
 
