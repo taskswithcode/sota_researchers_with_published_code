@@ -90,7 +90,7 @@ _Apologies in advance if we have missed a SOTA paper released with code for the 
 </p>
 <br/>
 <img src="researchers/divider.png"   width="1000px"/>
-<p><a href="https://taskswithcode.ghost.io/twc-3/">15–21 August 2022</a></p>
+<p><a href="https://taskswithcode.ghost.io/twc-3/">15 – 21 August 2022</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/Jg-Zhu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/hulianyu.png"   width="100px"  align="middle" hspace="20" vspace="20"/></a>
