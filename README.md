@@ -119,6 +119,17 @@ _Images (Github profile photos) below link to newsletters summarizing the work o
 <a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/Peter H Charlton_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/Ge Zhu_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 </p>
+<br/>
+<img src="researchers/divider.png"   width="1000px"/>
+<p><a href="https://taskswithcode.ghost.io/twc-issue-1-2/">15 – 21 August 2022</a></p>
+<p>
+<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/zhihaolee_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/>
+<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/aaronWool_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/Houwen Peng_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/Benno Krojer_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/nhshin-mcl_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+</a>
+</p>
 
 
 
