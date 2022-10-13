@@ -1,3 +1,5 @@
+![visitors](https://www.taskswithcode.com/github_stats/visits?name=twc/researchers) 
+ 
 ### SOTA researchers who published code _(from Aug 2022)_
 These researchers produced state-of-the-art work breaking existing records on  benchmarks. They also
 - authored their paper
