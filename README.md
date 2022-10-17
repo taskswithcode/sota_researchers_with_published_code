@@ -7,7 +7,16 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
 _Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
 
-
+<img src="divider.png"   width="1000px"/>
+<p><a href="https://taskswithcode.ghost.io/twc-11/">10 Oct – 16 Oct 2022</a></p>
+<p>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Hanoona.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Zhendong Wang_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Muhammad Uzair Khattak.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/VQA_author_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+</p>
+<br/>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
 <p>
