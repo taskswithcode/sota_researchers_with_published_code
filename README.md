@@ -8,6 +8,14 @@ These researchers produced state-of-the-art work breaking existing records on  b
 _Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
 
 <img src="divider.png"   width="1000px"/>
+<p><a href="https://taskswithcode.ghost.io/twc/">24 Oct – 30 Oct 2022</a></p>
+<p>
+<a href="https://taskswithcode.ghost.io/twc-13/"><img src="researchers/2022/Ristea-13.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-13/"><img src="researchers/2022/lucas_jaffe_13.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-13/"><img src="researchers/2022/Xintao Wang-13.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+</p>
+<br/>
+<img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc/">17 Oct – 23 Oct 2022</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/Jianhao Shen-12.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
