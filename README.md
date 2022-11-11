@@ -6,7 +6,19 @@ These researchers produced state-of-the-art work breaking existing records on  b
 - released notebooks/demo apps in few cases
 
 _Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
-
+<img src="divider.png"   width="1000px"/>
+<p><a href="https://taskswithcode.ghost.io/twc-14/">31 Oct – 6 Nov 2022</a></p>
+<p>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Jinhwan Seo-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Pan Lu-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/fb-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Shengjie Luo-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Wenhan Xiong-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Michihiro Yasunaga-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Seokju Cho-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Guanqi Zhan-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Tao Kong-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-14/"><img src="researchers/2022/Haowei Lin-14.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc/">24 Oct – 30 Oct 2022</a></p>
 <p>
