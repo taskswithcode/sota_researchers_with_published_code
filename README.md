@@ -17,7 +17,6 @@ _Images (Github profile photos) below link to newsletters summarizing the SOTA w
 <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Chaminda-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Haofei Xu-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <img src="divider.png"   width="1000px"/>
-<img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-15/"> 7 – 13 Nov 2022</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc-15/"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
