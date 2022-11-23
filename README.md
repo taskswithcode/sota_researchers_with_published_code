@@ -61,7 +61,7 @@ _Images (Github profile photos) below link to newsletters summarizing the SOTA w
 <a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Zhendong Wang_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Muhammad Uzair Khattak.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/VQA_author_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 </p>
 <br/>
 <img src="divider.png"   width="1000px"/>
