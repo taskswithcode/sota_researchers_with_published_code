@@ -280,9 +280,9 @@ _Images below are Github profile photos of featured SOTA researchers_
 <tr>
   <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=30&name=Jianhao Shen"><img src="researchers/2022/Hanoona.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=30&name=Hanoona Rasheed"><img src="researchers/2022/Hanoona.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
     </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=30&name=Jianhao Shen">Jianhao Shen</a></div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=30&name=Hanoona Rasheed">Hanoona Rasheed</a></div>
     <div align="center">Open Vocabulary Object Detection</div>
   </td>
   <td>
@@ -316,11 +316,11 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-
-
-<br/>
 <img src="divider.png"   width="1000px"/>
+
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
+
+
 <p>
 <a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/tranhungnghiep.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/andrea gesmundo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
