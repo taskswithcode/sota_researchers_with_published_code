@@ -301,9 +301,9 @@ _Images below are Github profile photos of featured SOTA researchers_
   </td>
     <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=33&name= Yuxin Jiang"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=33&name=Yuxin Jiang"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=33&name= Yuxin Jiang"> Yuxin Jiang</a></div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=33&name=Yuxin Jiang"> Yuxin Jiang</a></div>
     <div align="center">Semantic Textual Similarity</div>
   </td>
     <td>
@@ -318,18 +318,67 @@ _Images below are Github profile photos of featured SOTA researchers_
 </table>
 <img src="divider.png"   width="1000px"/>
 
+
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=34&name=Hung-Nghiep Tran"><img src="researchers/2022/tranhungnghiep.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=34&name=Hung-Nghiep Tran">Hung-Nghiep Tran</a></div>
+    <div align="center">Link Prediction</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=35&name=Andrea Gesmundo"><img src="researchers/2022/andrea gesmundo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=35&name=Andrea Gesmundo">Andrea Gesmundo</a></div>
+    <div align="center">Generalized few-shot image  Classification</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=36&name=Anuj Singh"><img src="researchers/2022/Anuj Singh.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=36&name=Anuj Singh">Anuj Singh</a></div>
+    <div align="center">Few-Shot Image Classification</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=37&name=Manuel Traub"><img src="researchers/2022/Manuel Traub.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=37&name=Manuel Traub">Manuel Traub</a></div>
+    <div align="center">Video Object Tracking</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=38&name=Jonas Schult"><img src="researchers/2022/Jonas Schult.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=38&name=Jonas Schult">Jonas Schult</a></div>
+    <div align="center">Instance Segmentation</div>
+  </td>
+</tbody>
+</table>
+
+<table>
+<tbody>
+</tr>
+  <tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=30&name=Khoa Vo"><img src="researchers/2022/vhvkhoa.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=39&name=Khoa Vo">Khoa Vo</a></div>
+    <div align="center">Temporal Action Proposal Generation</div>
+  </td>
+</tr>
+</tbody>
+</table>
 
 
-<p>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/tranhungnghiep.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/andrea gesmundo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/Anuj Singh.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/Manuel Traub.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/Jonas Schult.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-10/"><img src="researchers/2022/vhvkhoa.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-9-2/">26 Sept – 2 Oct 2022</a></p>
 <p>
