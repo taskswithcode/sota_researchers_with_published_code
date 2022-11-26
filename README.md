@@ -369,7 +369,7 @@ _Images below are Github profile photos of featured SOTA researchers_
   <tr>
   <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=30&name=Khoa Vo"><img src="researchers/2022/vhvkhoa.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=39&name=Khoa Vo"><img src="researchers/2022/vhvkhoa.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=39&name=Khoa Vo">Khoa Vo</a></div>
     <div align="center">Temporal Action Proposal Generation</div>
@@ -380,16 +380,68 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-9-2/">26 Sept – 2 Oct 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/Taehun Kim.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/Junyeong.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/drinkingcoder.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/Riccardo La Grassa.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/Antoine Yang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-9-2/"><img src="researchers/2022/Zixiang Zhou.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=40&name=Taehun Kim"><img src="researchers/2022/Taehun Kim.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=40&name=Taehun Kim">Taehun Kim</a></div>
+    <div align="center">Salient Object Detection</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=41&name=Junyoung Son"><img src="researchers/2022/Junyeong.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=41&name=Junyoung Son">Junyoung Son</a></div>
+    <div align="center">Dialog Relation Extraction</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=42&name=Zhaoyang Huang"><img src="researchers/2022/drinkingcoder.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=42&name=Zhaoyang Huang">Zhaoyang Huang</a></div>
+    <div align="center">Optical flow estimation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=43&name=Riccardo La Grassa"><img src="researchers/2022/Riccardo La Grassa.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=43&name=Riccardo La Grassa">Riccardo La Grassa</a></div>
+    <div align="center">Depth Estimation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=44&name=Antoine Yang"><img src="researchers/2022/Antoine Yang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=44&name=Antoine Yang">Antoine Yang</a></div>
+    <div align="center">Zero-Shot Learning</div>
+  </td>
+</tbody>
+</table>
+
+<table>
+<tbody>
+</tr>
+  <tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=45&name=Zixiang Zhou"><img src="researchers/2022/Zixiang Zhou.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=45&name=Zixiang Zhou">Zixiang Zhou</a></div>
+    <div align="center">3D Object Detection</div>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-8/">19 Sept – 25 Sept 2022</a></p>
 <p>
