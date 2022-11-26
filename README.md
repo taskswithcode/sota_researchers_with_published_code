@@ -24,7 +24,7 @@ _Images below are Github profile photos of featured SOTA researchers_
       <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Yuxin Fang-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=2&name=Yuxin Fang">Yuxin Fang</a></div>
-    <div align="center">Instance segmentation<br/>Semantic segmentation &<br/> Object detection</div>
+    <div align="center">Image segmentation</div>
   </td>
   <td>
     <div align="center">
@@ -70,19 +70,45 @@ _Images below are Github profile photos of featured SOTA researchers_
     <td>
   </td>
 </tr>
-
-
-
-
 </tbody>
 </table>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-15/"> 7 – 13 Nov 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-15/"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-15/"><img src="researchers/2022/Steven Walton-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-15/"><img src="researchers/2022/Andrea Dittadi-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-15/"><img src="researchers/2022/Jitesh Jain -15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Steven Walton-15a.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=8&name=Steven Walton">Steven Walton</a></div>
+    <div align="center">Image Generation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=9&name=Haoning Wu">Haoning Wu</a></div>
+    <div align="center">Video Quality Assessment</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Andrea Dittadi-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=10&name=Andrea Dittadi">Andrea Dittadi</a></div>
+    <div align="center">Video Prediction</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Jitesh Jain -15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=11&name=Jitesh Jain">Jitesh Jain</a></div>
+    <div align="center">Instance segmentation</div>
+  </td>
+</tr>
+</tbody>
+</table>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-14/">31 Oct – 6 Nov 2022</a></p>
 <p>
