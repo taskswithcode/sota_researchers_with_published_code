@@ -8,6 +8,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 _Images below are Github profile photos of featured SOTA researchers_
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-16/"> 14 – 20 Nov 2022</a></p>
+
 <table>
 <tbody>
 <tr>
