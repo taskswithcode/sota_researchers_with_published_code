@@ -196,7 +196,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 </table>
 <img src="divider.png"   width="1000px"/>
 
-
 <p><a href="https://taskswithcode.ghost.io/twc/">24 Oct – 30 Oct 2022</a></p>
 <table>
 <tbody>
@@ -225,9 +224,9 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
+
+
 <img src="divider.png"   width="1000px"/>
-
-
 <p><a href="https://taskswithcode.ghost.io/twc/">17 Oct – 23 Oct 2022</a></p>
 <table>
 <tbody>
@@ -274,7 +273,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 
 <p><a href="https://taskswithcode.ghost.io/twc-11/">10 Oct – 16 Oct 2022</a></p>
-
 <table>
 <tbody>
 <tr>
@@ -317,9 +315,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tbody>
 </table>
 <img src="divider.png"   width="1000px"/>
-
-
-
 
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
 <table>
@@ -377,10 +372,7 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-
-
 <img src="divider.png"   width="1000px"/>
-
 
 <p><a href="https://taskswithcode.ghost.io/twc-9-2/">26 Sept – 2 Oct 2022</a></p>
 <table>
@@ -438,12 +430,7 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-
-
-
-
 <img src="divider.png"   width="1000px"/>
-
 
 <p><a href="https://taskswithcode.ghost.io/twc-8/">19 Sept – 25 Sept 2022</a></p>
 
@@ -517,23 +504,84 @@ _Images below are Github profile photos of featured SOTA researchers_
       <a href="https://taskswithcode.com/researchers/?author=54&name=Sreenath P Kyathanahally"><img src="researchers/2022/Sreenath P Kyathanahally.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=54&name=Sreenath P Kyathanahally">Sreenath P Kyathanahally</a></div>
-    <div align="center">fine-grained image classification</div>
+    <div align="center">Fine-grained image classification</div>
   </td>
 </tr>
 </tbody>
 </table>
 
+
+
+
+
+
+
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-7/">12 Sept– 18 Sept 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/Haobo Wang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/KaiWU5.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/LinChen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/Shell Hu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/Daniel Shalam.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-7/"><img src="researchers/2022/StomachCold_Liang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+
+
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=55&name=Haobo Wang"><img src="researchers/2022/Haobo Wang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=55&name=Haobo Wang">Haobo Wang</a></div>
+    <div align="center">learning with noisy labels</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=56&name=Kai Wu"><img src="researchers/2022/KaiWU5.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=56&name=Kai Wu">Kai Wu</a></div>
+    <div align="center">semi-supervised image classification</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=57&name=Lin Chen"><img src="researchers/2022/LinChen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=57&name=Lin Chen">Lin Chen</a></div>
+    <div align="center">Domain Adaptation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=58&name=Shell Xu Hu"><img src="researchers/2022/Shell Hu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=58&name=Shell Xu Hu">Shell Xu Hu</a></div>
+    <div align="center">Few shot image classification</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=59&name=Daniel Shalam"><img src="researchers/2022/Daniel Shalam.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=59&name=Daniel Shalam">Daniel Shalam</a></div>
+    <div align="center">few shot image classification</div>
+  </td>
+</tr>
+</tbody>
+</tbody>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=60&name=Weihan Liang"><img src="researchers/2022/StomachCold_Liang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=60&name=Weihan Liang">Weihan Liang</a></div>
+    <div align="center">few-shot image classification</div>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-6-2/">5 Sept– 11 Sept 2022</a></p>
 <p>
@@ -554,7 +602,13 @@ _Images below are Github profile photos of featured SOTA researchers_
 </p>
 <br/>
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-4/">22 Aug – 28 Aug 2022</a></p>
+
+
+
+
 <p>
 <a href="https://taskswithcode.ghost.io/twc-4/"><img src="researchers/2022/Jia Cheng Hu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
 <a href="https://taskswithcode.ghost.io/twc-4/"><img src="researchers/2022/gitnlp.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
