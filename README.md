@@ -7,8 +7,9 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
 _Images below are Github profile photos of featured SOTA researchers_
 <img src="divider.png"   width="1000px"/>
-<p><a href="https://taskswithcode.ghost.io/twc-16/"> 14 – 20 Nov 2022</a></p>
 
+
+<p><a href="https://taskswithcode.ghost.io/twc-16/"> 14 – 20 Nov 2022</a></p>
 <table>
 <tbody>
 <tr>
@@ -194,10 +195,9 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tbody>
 </table>
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc/">24 Oct – 30 Oct 2022</a></p>
-
-
-
 <table>
 <tbody>
 <tr>
@@ -225,21 +225,54 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-
-
-
-
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc/">17 Oct – 23 Oct 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/Jianhao Shen-12.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/Zhan Tong-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/Jianwei Yang-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/qinLiu-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc/"><img src="researchers/2022/Chen Feng-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=25&name=Jianhao Shen"><img src="researchers/2022/Jianhao Shen-12.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=25&name=Jianhao Shen">Jianhao Shen</a></div>
+    <div align="center">Link Prediction</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=26&name=Zhan Tong"><img src="researchers/2022/Zhan Tong-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=26&name=Zhan Tong">Zhan Tong</a></div>
+    <div align="center">Action recognition</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=27&name=Jianwei Yang"><img src="researchers/2022/Jianwei Yang-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=27&name=Jianwei Yang">Jianwei Yang</a></div>
+    <div align="center">Open Vocabulary Object Detection</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=28&name=Qin Liu"><img src="researchers/2022/qinLiu-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=28&name=Qin Liu">Qin Liu</a></div>
+    <div align="center">Interactive segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=29&name=Chen Feng"><img src="researchers/2022/Chen Feng-12.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=29&name=Chen Feng">Chen Feng</a></div>
+    <div align="center">learning with noisy labels</div>
+  </td>
+</tr>
+</tbody>
+</table>
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-11/">10 Oct – 16 Oct 2022</a></p>
 <p>
 <a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Hanoona.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
