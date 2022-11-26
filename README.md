@@ -443,19 +443,86 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 
 <img src="divider.png"   width="1000px"/>
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-8/">19 Sept – 25 Sept 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/alibaba_vtddggg.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/ms_bei_Liu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/zhangao.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/debadityaroy.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/Kaiyu Li.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/MenghaoGuo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/Max Ma.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/Runzhong Wang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-8/"><img src="researchers/2022/Sreenath P Kyathanahally.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=46&name=Xiaofeng Mao"><img src="researchers/2022/alibaba_vtddggg.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=46&name=Xiaofeng Mao">Xiaofeng Mao</a></div>
+    <div align="center">Domain Generalization</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=47&name=Bei Liu"><img src="researchers/2022/ms_bei_Liu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=47&name=Bei Liu">Bei Liu</a></div>
+    <div align="center">Video retrieval</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=48&name=Ao Zhang"><img src="researchers/2022/zhangao.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=48&name=Ao Zhang">Ao Zhang</a></div>
+    <div align="center">Scene graph generation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=49&name=Debaditya Roy"><img src="researchers/2022/debadityaroy.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=49&name=Debaditya Roy">Debaditya Roy</a></div>
+    <div align="center">next action prediction</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=50&name=Kaiyu Li"><img src="researchers/2022/Kaiyu Li.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=50&name=Kaiyu Li">Kaiyu Li</a></div>
+    <div align="center">Remote sensing</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=51&name=Meng-Hao Guo"><img src="researchers/2022/MenghaoGuo.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=51&name=Meng-Hao Guo">Meng-Hao Guo</a></div>
+    <div align="center">Semantic Segmentation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=52&name=Max Ma"><img src="researchers/2022/Max Ma.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=52&name=Max Ma">Max Ma</a></div>
+    <div align="center">Long-range modeling</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=53&name=Runzhong Wang"><img src="researchers/2022/Runzhong Wang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=53&name=Runzhong Wang">Runzhong Wang</a></div>
+    <div align="center">Graph matching</div>
+  </td>
+    <td>
+      <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=54&name=Sreenath P Kyathanahally"><img src="researchers/2022/Sreenath P Kyathanahally.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=54&name=Sreenath P Kyathanahally">Sreenath P Kyathanahally</a></div>
+    <div align="center">fine-grained image classification</div>
+  </td>
+</tr>
+</tbody>
+</table>
+
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-7/">12 Sept– 18 Sept 2022</a></p>
 <p>
