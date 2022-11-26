@@ -535,7 +535,7 @@ _Images below are Github profile photos of featured SOTA researchers_
       <a href="https://taskswithcode.com/researchers/?author=56&name=Kai Wu"><img src="researchers/2022/KaiWU5.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=56&name=Kai Wu">Kai Wu</a></div>
-    <div align="center">semi-supervised image classification</div>
+    <div align="center">Semi-supervised image classification</div>
   </td>
   <td>
     <div align="center">
@@ -575,24 +575,75 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tbody>
 </table>
 
-
-
-
-
-
-
-
 <img src="divider.png"   width="1000px"/>
+
+
+
+
+
+
+
+
+
+
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-6-2/">5 Sept– 11 Sept 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/Zheng Guang Cong.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/user0407.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/YingYuChen97.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/BrunoSauvalle.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/Pingchuan Ma.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-6-2/"><img src="researchers/2022/Rex Cheng.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=61&name=Zheng Guang Cong"><img src="researchers/2022/Zheng Guang Cong.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=61&name=Zheng Guang Cong">Zheng Guang Cong</a></div>
+    <div align="center">Conditional image generation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=62&name=Midhun Vayyat"><img src="researchers/2022/user0407.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=62&name=Midhun Vayyat">Midhun Vayyat</a></div>
+    <div align="center">Synthetic-to-Real Translation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=63&name=Ying-Yu Chen"><img src="researchers/2022/YingYuChen97.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=63&name=Ying-Yu Chen">Ying-Yu Chen</a></div>
+    <div align="center">Few shot image classification</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=64&name=Bruno Sauvalle"><img src="researchers/2022/BrunoSauvalle.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=64&name=Bruno Sauvalle">Bruno Sauvalle</a></div>
+    <div align="center">Unsupervised Object Segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=65&name=Pingchuan Ma"><img src="researchers/2022/Pingchuan Ma.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=65&name=Pingchuan Ma">Pingchuan Ma</a></div>
+    <div align="center">Lipreading</div>
+  </td>
+</tr>
+</tbody>
+</tbody>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=66&name=Ho Kei Cheng"><img src="researchers/2022/Rex Cheng.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=66&name=Ho Kei Cheng">Ho Kei Cheng</a></div>
+    <div align="center">Video object segmentation</div>
+  </td>
+</tr>
+</tbody>
+</table>
+
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-issue-4/">29 Aug–4 Sept 2022</a></p>
 <p>
@@ -605,9 +656,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 
 <p><a href="https://taskswithcode.ghost.io/twc-4/">22 Aug – 28 Aug 2022</a></p>
-
-
-
 
 <p>
 <a href="https://taskswithcode.ghost.io/twc-4/"><img src="researchers/2022/Jia Cheng Hu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
