@@ -8,14 +8,73 @@ These researchers produced state-of-the-art work breaking existing records on  b
 _Images (Github profile photos) below link to newsletters summarizing the SOTA work of these researchers_
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-16/"> 14 – 20 Nov 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Xingqian Xu-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Yuxin Fang-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Patrick Lewis-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Yuang Zhang-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Kunchang Li-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Chaminda-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Haofei Xu-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Xingqian Xu-16a.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=1&name=Xingqian Xu">Xingqian Xu</a></div>
+    <div align="center">Image Inpainting</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Yuxin Fang-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=2&name=Yuxin Fang">Yuxin Fang</a></div>
+    <div align="center">Instance segmentation<br/>Semantic segmentation &<br/> Object detection</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Patrick Lewis-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=3&name=Patrick Lewis">Patrick Lewis</a></div>
+    <div align="center">Question Answering</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Yuang Zhang-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=4&name=Yuang Zhang">Yuang Zhang</a></div>
+    <div align="center">Multi-Object Tracking </div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Kunchang Li-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=5&name=Kunchang Li">Kunchang Li</a></div>
+    <div align="center">Action recognition</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Chaminda-16a.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=6&name=Wele Gedara Chaminda Bandara">Wele Gedara Chaminda Bandara</a></div>
+    <div align="center">Action classification </div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.ghost.io/twc-16/"><img src="researchers/2022/Haofei Xu-16a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=7&name=Haofei Xu">Haofei Xu</a></div>
+    <div align="center">Optical flow estimation</div>
+  </td>
+  <td>
+  </td>
+    <td>
+  </td>
+    <td>
+  </td>
+</tr>
+
+
+
+
+</tbody>
+</table>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-15/"> 7 – 13 Nov 2022</a></p>
 <p>
