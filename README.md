@@ -274,13 +274,50 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 
 <p><a href="https://taskswithcode.ghost.io/twc-11/">10 Oct – 16 Oct 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Hanoona.png" width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Zhendong Wang_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Muhammad Uzair Khattak.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-11/"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
+
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=30&name=Jianhao Shen"><img src="researchers/2022/Hanoona.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=30&name=Jianhao Shen">Jianhao Shen</a></div>
+    <div align="center">Open Vocabulary Object Detection</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=31&name=Zhendong Wang"><img src="researchers/2022/Zhendong Wang_11.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=31&name=Zhendong Wang">Zhendong Wang</a></div>
+    <div align="center">Image Generation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=32&name=Muhammad Uzair Khattak"><img src="researchers/2022/Muhammad Uzair Khattak.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=32&name=Muhammad Uzair Khattak">Muhammad Uzair Khattak</a></div>
+    <div align="center">Prompt engineering</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=33&name= Yuxin Jiang"><img src="researchers/2022/Jiang Yuxin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=33&name= Yuxin Jiang"> Yuxin Jiang</a></div>
+    <div align="center">Semantic Textual Similarity</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=9&name=Haoning Wu"><img src="researchers/2022/Haoning Wu-15a.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=9&name=Haoning Wu">Haoning Wu</a></div>
+    <div align="center">Video Quality Assessment</div>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 <br/>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-10/">3 Oct – 9 Oct 2022</a></p>
