@@ -510,16 +510,8 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tbody>
 </table>
 
-
-
-
-
-
-
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-7/">12 Sept– 18 Sept 2022</a></p>
-
-
 <table>
 <tbody>
 <tr>
@@ -578,16 +570,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 <img src="divider.png"   width="1000px"/>
 
 
-
-
-
-
-
-
-
-
-
-
 <p><a href="https://taskswithcode.ghost.io/twc-6-2/">5 Sept– 11 Sept 2022</a></p>
 <table>
 <tbody>
@@ -629,7 +611,6 @@ _Images below are Github profile photos of featured SOTA researchers_
   </td>
 </tr>
 </tbody>
-</tbody>
 <table>
 <tbody>
 <tr>
@@ -643,15 +624,44 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-
 <img src="divider.png"   width="1000px"/>
+
+
+
+
+
+
+
 <p><a href="https://taskswithcode.ghost.io/twc-issue-4/">29 Aug–4 Sept 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-issue-4/"><img src="researchers/2022/Yin Li.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-4/"><img src="researchers/2022/Niklas Muennighoff.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-4/"><img src="researchers/2022/skepsun.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
-<br/>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=67&name=Yin Li"><img src="researchers/2022/Yin Li.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=67&name=Yin Li">Yin Li</a></div>
+    <div align="center">temporal action localization</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=68&name=Niklas Muennighoff"><img src="researchers/2022/Niklas Muennighoff.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=68&name=Niklas Muennighoff">Niklas Muennighoff</a></div>
+    <div align="center">Information retrieval</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=69&name=Chuxiong Sun"><img src="researchers/2022/skepsun.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=69&name=Chuxiong Sunn">Chuxiong Sun</a></div>
+    <div align="center">Link prediction </div>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 <img src="divider.png"   width="1000px"/>
 
 
