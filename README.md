@@ -656,13 +656,6 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tbody>
 </table>
 <img src="divider.png"   width="1000px"/>
-  
-  
-  
-  
-  
-  
-
 
 <p><a href="https://taskswithcode.ghost.io/twc-4/">22 Aug – 28 Aug 2022</a></p>
 <table>
@@ -742,15 +735,77 @@ _Images below are Github profile photos of featured SOTA researchers_
 
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-3/">15 – 21 August 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/Jg-Zhu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/hulianyu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/Sanghyun Jo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/Edward Sanderson.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/Jin-Hwa Kim.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/Yuyuan Liu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-3/"><img src="researchers/2022/ME495.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</p>
+
+
+
+
+
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=79&name=Jianggang Zhu"><img src="researchers/2022/Jg-Zhu.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=79&name=Jianggang Zhu">Jianggang Zhu</a></div>
+    <div align="center">Long tail learning</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=80&name=Lianyu Hu"><img src="researchers/2022/hulianyu.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=80&name=Lianyu Hu">Lianyu Hu</a></div>
+    <div align="center">Skeleton based action recognition</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=81&name=Sanghyun Jo"><img src="researchers/2022/Sanghyun Jo.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=81&name=Sanghyun Jo">Sanghyun Jo</a></div>
+    <div align="center">Weakly supervised semantic segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=82&name=Edward Sanderson"><img src="researchers/2022/Edward Sanderson.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=82&name=Edward Sanderson">Edward Sanderson</a></div>
+    <div align="center">Medical Image Segmentation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=83&name=Jin-Hwa Kim"><img src="researchers/2022/Jin-Hwa Kim.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=83&name=Jin-Hwa Kim">Jin-Hwa Kim</a></div>
+    <div align="center">Unsupervised anomaly detection</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=84&name=Yuyuan Liu"><img src="researchers/2022/Yuyuan Liu.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=84&name=Yuyuan Liu">Yuyuan Liu</a></div>
+    <div align="center">Supervised anomaly detection</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=85&name=ME495"><img src="researchers/2022/ME495.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=85&name=ME495">ME495</a></div>
+    <div align="center">Hand Pose estimation</div>
+  </td>
+</tbody>
+</table>
+
+
+
+
+
+
 <br/>
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8 – 14 August 20222</a></p>
