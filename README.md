@@ -800,30 +800,133 @@ _Images below are Github profile photos of featured SOTA researchers_
   </td>
 </tbody>
 </table>
-
-
-
-
-
-
-<br/>
 <img src="divider.png"   width="1000px"/>
+  
 <p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8 – 14 August 20222</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Jingyun Liang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Zhendong Wang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Yinxiao Li_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Martin_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Ethan Yuxuan Wang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Zhengyang Geng_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Ozan Unal_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Jonas Wu_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Lukas Hoyer_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Jianxun Lou_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Wojciech Zielonka_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/XyChen_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Peter H Charlton_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-2/"><img src="researchers/2022/Ge Zhu_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+  
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=86&name=Jingyun Liang"><img src="researchers/2022/Jingyun Liang_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=86&name=Jingyun Liang">Jingyun Liang</a></div>
+    <div align="center">Video restoration</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=87&name=Zhendong Wang"><img src="researchers/2022/Zhendong Wang_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=87&name=Zhendong Wang">Zhendong Wang</a></div>
+    <div align="center">Image Deblurring</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=88&name=Yinxiao Li"><img src="researchers/2022/Yinxiao Li_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=88&name=Yinxiao Li">Yinxiao Li</a></div>
+    <div align="center">Image Deblurring</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=89&name=MartinXM"><img src="researchers/2022/Martin_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=89&name=MartinXM">MartinXM</a></div>
+    <div align="center">Action recognition in videos</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=90&name=Ethan Yuxuan Wang"><img src="researchers/2022/Ethan Yuxuan Wang_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=90&name=Ethan Yuxuan Wang">Ethan Yuxuan Wang</a></div>
+    <div align="center">Boundary grounding and captioning in videos</div>
+  </td>
+</tr>
+</tbody>
+</table>
+  
+ <table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=91&name=Zhengyang Geng"><img src="researchers/2022/Zhengyang Geng_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=91&name=Zhengyang Geng">Zhengyang Geng</a></div>
+    <div align="center">Optical flow estimation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=92&name=Ozan Unal"><img src="researchers/2022/Ozan Unal_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=92&name=Ozan Unal">Ozan Unal</a></div>
+    <div align="center">Video and image semantic segmentation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=93&name=Jiannan Wu"><img src="researchers/2022/Jonas Wu_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=93&name=Jiannan Wu">Jiannan Wu</a></div>
+    <div align="center">Language as queries for referring to video object segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=94&name=Lukas Hoyer"><img src="researchers/2022/Lukas Hoyer_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=94&name=Lukas Hoyer">Lukas Hoyer</a></div>
+    <div align="center">Image semantic segmentation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=95&name=Jianxun Lou"><img src="researchers/2022/Jianxun Lou_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=95&name=Jianxun Lou">Jianxun Lou</a></div>
+    <div align="center">Saliency Prediction</div>
+  </td>
+</tr>
+</tbody>
+</table>
+  
+ <table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=96&name=Wojciech Zielonka"><img src="researchers/2022/Wojciech Zielonka_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=96&name=Wojciech Zielonka">Wojciech Zielonka</a></div>
+    <div align="center">3D face reconstruction</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=97&name=Xiangyu Chen"><img src="researchers/2022/XyChen_2.png.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=97&name=Xiangyu Chen">Xiangyu Chen</a></div>
+    <div align="center">SVideo and Image super resolution</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=98&name=Peter H Charlton"><img src="researchers/2022/Peter H Charlton_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=98&name=Peter H Charlton">Peter H Charlton</a></div>
+    <div align="center">Heart beat detection and rate estimation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=99&name=Ge Zhu"><img src="researchers/2022/Ge Zhu_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=99&name=Ge Zhu">Ge Zhu</a></div>
+    <div align="center">Sound event localization and detection</div>
+  </td>
+</tr>
+</tbody>
+</table>
+  
+  
+  
+  
+
 </p>
 <br/>
 <img src="divider.png"   width="1000px"/>
