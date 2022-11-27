@@ -900,7 +900,7 @@ _Images below are Github profile photos of featured SOTA researchers_
   </td>
   <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=97&name=Xiangyu Chen"><img src="researchers/2022/XyChen_2.png.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=97&name=Xiangyu Chen"><img src="researchers/2022/XyChen_2.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=97&name=Xiangyu Chen">Xiangyu Chen</a></div>
     <div align="center">SVideo and Image super resolution</div>
