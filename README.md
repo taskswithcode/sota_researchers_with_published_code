@@ -922,23 +922,52 @@ _Images below are Github profile photos of featured SOTA researchers_
 </tr>
 </tbody>
 </table>
-  
-  
-  
-  
-
-</p>
-<br/>
 <img src="divider.png"   width="1000px"/>
+  
 <p><a href="https://taskswithcode.ghost.io/twc-issue-1-2/">5 – 7 August 2022</a></p>
-<p>
-<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/2022/zhihaolee_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/>
-<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/2022/aaronWool_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/2022/Houwen Peng_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/2022/Benno Krojer_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-<a href="https://taskswithcode.ghost.io/twc-issue-1-2/"><img src="researchers/2022/nhshin-mcl_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-</a>
-</p>
+  
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=100&name=Zhihao Li"><img src="researchers/2022/zhihaolee_1.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=100&name=Zhihao Li">Zhihao Li</a></div>
+    <div align="center">3-D Pose Human pose and shape  estimation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=101&name=Yangzheng Wu"><img src="researchers/2022/aaronWool_1.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=101&name=Yangzheng Wu">Yangzheng Wu</a></div>
+    <div align="center">6 Degrees of freedom (6-DOF) pose estimation  in RGB-D images</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=102&name=Houwen Peng"><img src="researchers/2022/Houwen Peng_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=102&name=Houwen Peng">Houwen Peng</a></div>
+    <div align="center">Zero-shot action recognition in videos</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer "><img src="researchers/2022/Benno Krojer_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer ">Benno Krojer </a></div>
+    <div align="center">Image Retrieval from Contextual Descriptions</div>
+  </td>
+ </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=104&name=Nyeong-Ho Shin"><img src="researchers/2022/nhshin-mcl_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=104&name=Nyeong-Ho Shin">Nyeong-Ho Shin</a></div>
+    <div align="center">Age estimation from image</div>
+  </td>
+</tr>
+</tbody>
+</table>
 <br/>
 <br/>
 
