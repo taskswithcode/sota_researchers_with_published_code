@@ -948,9 +948,9 @@ _Images below are Github profile photos of featured SOTA researchers - **104 to 
   </td>
     <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer "><img src="researchers/2022/Benno Krojer_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer"><img src="researchers/2022/Benno Krojer_1.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer ">Benno Krojer </a></div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=103&name=Benno Krojer">Benno Krojer</a></div>
     <div align="center">Image Retrieval from Contextual Descriptions</div>
   </td>
  </td>
