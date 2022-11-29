@@ -5,7 +5,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 - released models in most cases
 - released notebooks/demo apps in few cases
 
-_Images below are Github profile photos of **104** featured SOTA researchers_
+_Images below are Github profile photos of featured SOTA researchers - **104 to date**_
 <img src="divider.png"   width="1000px"/>
 
 
@@ -736,10 +736,6 @@ _Images below are Github profile photos of **104** featured SOTA researchers_
 <img src="divider.png"   width="1000px"/>
 <p><a href="https://taskswithcode.ghost.io/twc-3/">15 – 21 August 2022</a></p>
 
-
-
-
-
 <table>
 <tbody>
 <tr>
@@ -793,16 +789,16 @@ _Images below are Github profile photos of **104** featured SOTA researchers_
   </td>
   <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=85&name=ME495"><img src="researchers/2022/ME495.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=85&name=Jian Cheng"><img src="researchers/2022/ME495.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=85&name=ME495">ME495</a></div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=85&name=Jian Cheng">Jian Cheng</a></div>
     <div align="center">Hand Pose estimation</div>
   </td>
 </tbody>
 </table>
 <img src="divider.png"   width="1000px"/>
   
-<p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8 – 14 August 20222</a></p>
+<p><a href="https://taskswithcode.ghost.io/twc-issue-2/">8 – 14 August 2022</a></p>
   
 <table>
 <tbody>
