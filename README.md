@@ -65,7 +65,7 @@ _Images below are Github profile photos of featured SOTA researchers - **111 to 
   </td>
   <td>
    <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=111&name= Minhyeok Lee"><img src="researchers/2022/ Minhyeok Lee.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=111&name=Minhyeok Lee"><img src="researchers/2022/ Minhyeok Lee.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=111&name=Minhyeok Lee"> Minhyeok Lee</a></div>
     <div align="center">Unsupervised Video Object Segmentation</div>
