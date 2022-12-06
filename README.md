@@ -8,8 +8,13 @@ These researchers produced state-of-the-art work breaking existing records on  b
  
 
 _Images below are Github profile photos of featured SOTA researchers - **111 to date**_
+```
+Ideally, any company that leverages Machine Learning should, in good conscience, feel compelled 
+to support researchers who publish code, models etc. with permissible licenses, in a tangible way beyond 
+just attribution for legal compliance - TWC
+```
 
- _**Please consider supporting open research by clicking on the researchers below to  star/sponsor them**_
+ _**Consider supporting open research by clicking on the researchers below to  star/sponsor them**_
 <img src="divider.png"   width="1000px"/>
 
 <p><a href="https://taskswithcode.ghost.io/twc-17/"> 21 – 27 Nov 2022</a></p>
