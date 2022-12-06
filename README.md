@@ -11,7 +11,7 @@ _Images below are Github profile photos of featured SOTA researchers - **111 to 
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
-publish code, models etc. with permissible licenses, 
+publish code, models/notebooks/apps etc. with permissible licenses, 
 in a **tangible way beyond just attribution for legal compliance** - TWC
 
 
