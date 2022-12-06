@@ -5,7 +5,11 @@ These researchers produced state-of-the-art work breaking existing records on  b
 - released models in most cases
 - released notebooks/demo apps in few cases
 
+ 
+
 _Images below are Github profile photos of featured SOTA researchers - **111 to date**_
+
+ _**Please consider supporting open research by clicking on the researchers below to  star/sponsor them**_
 <img src="divider.png"   width="1000px"/>
 
 <p><a href="https://taskswithcode.ghost.io/twc-17/"> 21 – 27 Nov 2022</a></p>
