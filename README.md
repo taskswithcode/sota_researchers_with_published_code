@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **111 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **116 to date**_
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
@@ -16,6 +16,50 @@ in a **tangible way beyond just attribution for legal compliance** - TWC
 
 
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
+<img src="divider.png"   width="1000px"/>
+
+<p><a href="https://taskswithcode.ghost.io/twc-18/"> 28 Nov – 4 Dec 2022</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=112&name=Seung Ho Park"><img src="researchers/2022/Seung Ho Park.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=112&name=Seung Ho Park">Seung Ho Park</a></div>
+    <div align="center">Image Super-Resolution</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=113&name=Yuyuan Liu"><img src="researchers/2022/Yuyuan Liu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=113&name=Yuyuan Liu">Yuyuan Liu</a></div>
+    <div align="center">Anomaly detection</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=114&name=Haojia Lin"><img src="researchers/2022/Haojia Lin.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=114&name=Haojia Lin">Haojia Lin</a></div>
+    <div align="center">Semantic Segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=115&name=Tal Reiss"><img src="researchers/2022/Tal Reiss.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=115&name=Tal Reiss">Tal Reiss</a></div>
+    <div align="center">Anomaly detection</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=116&name=David Bojanić"><img src="researchers/2022/David Bojanić.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=40&name=David Bojanić">David Bojanić</a></div>
+    <div align="center">3D Point Cloud Registration</div>
+  </td>
+</tr>
+</tbody>
+</table>
 <img src="divider.png"   width="1000px"/>
 
 <p><a href="https://taskswithcode.ghost.io/twc-17/"> 21 – 27 Nov 2022</a></p>
