@@ -18,6 +18,50 @@ in a **tangible way beyond just attribution for legal compliance** - TWC
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
 
+<p><a href="https://taskswithcode.ghost.io/twc-19/"> 5 – 11 Dec 2022</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=117&name=Hao Phung"><img src="researchers/2022/Hao Phung.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=117&name=Hao Phung">Hao Phung</a></div>
+    <div align="center">Image Generation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=94&name=Lukas Hoyer"><img src="researchers/2022/Lukas Hoyer_2.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=94&name=Lukas Hoyer">Lukas Hoyer</a></div>
+    <div align="center">Unsupervised Domain Adaptation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=113&name=Jie Liu"><img src="researchers/2022/Jie Liu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=113&name=Jie Liu">Jie Liu</a></div>
+    <div align="center">SMAC (Sequential Model-based Algorithm Configuration)</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=118&name=Jialian Wu"><img src="researchers/2022/Jialian Wu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=118&name=Jialian Wu">Jialian Wu</a></div>
+    <div align="center">Image Dense Captioning</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=119&name=Xin Chen"><img src="researchers/2022/Xin Chen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=119&name=Xin Chen">Xin Chen</a></div>
+    <div align="center">Motion Synthesis</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<img src="divider.png"   width="1000px"/>
+
 <p><a href="https://taskswithcode.ghost.io/twc-18/"> 28 Nov – 4 Dec 2022</a></p>
 <table>
 <tbody>
