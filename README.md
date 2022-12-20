@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **119 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **124 to date**_
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
@@ -17,6 +17,51 @@ in a **tangible way beyond just attribution for legal compliance** - TWC
 
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
+
+<p><a href="https://taskswithcode.ghost.io/twc-19/"> 12 – 18 Dec 2022</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=120&name=Mu Chen"><img src="researchers/2022/Mu Chen.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=120&name=Mu Chen">Mu Chen</a></div>
+    <div align="center">Image Generation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=121&name=Renrui Zhang"><img src="researchers/2022/Renrui Zhang.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=121&name=Renrui Zhang">Renrui Zhang</a></div>
+    <div align="center">3D Point Cloud Classification</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=122&name=Minh-Long Luu"><img src="researchers/2022/Minh-Long Luu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=122&name=Minh-Long Luu">Minh-Long Luu</a></div>
+    <div align="center">Classifier Calibration</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=123&name=Hao Shi"><img src="researchers/2022/Hao Shi.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=123&name=Hao Shi">Hao Shi</a></div>
+    <div align="center">Seeing Beyond the Visible</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=124&name=Alex Nichol"><img src="researchers/2022/Alex Nichol.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=124&name=Alex Nichol">Alex Nichol</a></div>
+    <div align="center">3D Point cloud generation from complex prompts</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<img src="divider.png"   width="1000px"/>
+
 
 <p><a href="https://taskswithcode.ghost.io/twc-19/"> 5 – 11 Dec 2022</a></p>
 <table>
