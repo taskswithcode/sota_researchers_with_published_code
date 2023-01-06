@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **124 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **125 to date**_
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
@@ -16,6 +16,43 @@ in a **tangible way beyond just attribution for legal compliance** - TWC
 
 
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
+<img src="divider.png"   width="1000px"/>
+
+<p><a href="https://taskswithcode.ghost.io/twc-19/"> 19 – 31 Dec 2022</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=125&name=Yassir Bendou"><img src="researchers/2022/Yassir Bendou.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=125&name=Yassir Bendou">Yassir Bendou</a></div>
+    <div align="center">Few-Shot Learning</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=126&name=Yushi Bai"><img src="researchers/2022/Yushi Bai.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=126&name=Yushi Bai">Yushi Bai</a></div>
+    <div align="center">Complex Query Answering</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=127&name=Sheng Shi"><img src="researchers/2022/Sheng Shi.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=127&name=Sheng Shi">Sheng Shi</a></div>
+    <div align="center">Semantic Segmentation</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=128&name=Chunyuan Li"><img src="researchers/2022/Chunyuan Li.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=128&name=Chunyuan Li">Chunyuan Li</a></div>
+    <div align="center">Object Detection</div>
+  </td>
+</tr>
+</tbody>
+</table>
 <img src="divider.png"   width="1000px"/>
 
 <p><a href="https://taskswithcode.ghost.io/twc-19/"> 12 – 18 Dec 2022</a></p>
