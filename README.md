@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **125 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **128 to date**_
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
