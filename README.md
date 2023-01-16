@@ -18,6 +18,59 @@ in a **tangible way beyond just attribution for legal compliance**
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
 
+<p><a href="https://taskswithcode.ghost.io/twc-19/"> 1 – 15 Dec 2023</a></p>
+<table>
+<tbody>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=129&name=Zigang Geng"><img src="researchers/2023/Zigang Geng.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=129&name=Zigang Geng">Zigang Geng</a></div>
+    <div align="center">Depth Estimation</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen"><img src="researchers/2023/Zixuan Chen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen">Zixuan Chen</a></div>
+    <div align="center">Image Dehazing</div>
+  </td>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=131&name=Lijun Yu"><img src="researchers/2023/Lijun Yu.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=131&name=Lijun Yu">Lijun Yu</a></div>
+    <div align="center">Video Prediction</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=132&name=Jakob Ambsdorf"><img src="researchers/2023/Jakob Ambsdorf.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=132&name=Jakob Ambsdorf">Jakob Ambsdorf</a></div>
+    <div align="center">Visual Question Answering</div>
+  </td>
+    <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=133&name=Keyu Tian"><img src="researchers/2023/Keyu Tian.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=133&name=Keyu Tian">Keyu Tian</a></div>
+    <div align="center">Instance Segmentation</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal"><img src="researchers/2023/Benjamin Attal.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal">Benjamin Attal</a></div>
+    <div align="center">Novel View Synthesis</div>
+  </td>
+</tr>
+</tbody>
+</table>
+<img src="divider.png"   width="1000px"/>
+
 <p><a href="https://taskswithcode.ghost.io/twc-19/"> 19 – 31 Dec 2022</a></p>
 <table>
 <tbody>
