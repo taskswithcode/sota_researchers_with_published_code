@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **134 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **135 to date**_
 
 Any company that leverages Machine Learning ideally should, 
 in good conscience, feel compelled to support researchers who 
@@ -65,6 +65,13 @@ in a **tangible way beyond just attribution for legal compliance**
     </div>
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal">Benjamin Attal</a></div>
     <div align="center">Novel View Synthesis</div>
+  </td>
+   <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=135&name=Nils Reimers"><img src="researchers/2023/Nils Reimers.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=135&name=Nils Reimers">Nils Reimers</a></div>
+    <div align="center">Semantic Textual Similarity</div>
   </td>
 </tr>
 </tbody>
