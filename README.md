@@ -18,7 +18,7 @@ in a **tangible way beyond just attribution for legal compliance**
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
 
-<p><a href="https://taskswithcode.ghost.io/twc-19/"> 1 – 15 Dec 2023</a></p>
+<p><a href="https://taskswithcode.ghost.io/twc-19/"> 1 – 15 Jan 2023</a></p>
 <table>
 <tbody>
 <tr>
