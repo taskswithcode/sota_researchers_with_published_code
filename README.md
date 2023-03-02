@@ -18,6 +18,235 @@ in a **tangible way beyond just attribution for legal compliance**
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
 
+<p>16 Jan – 1 Mar 2023</a></p>
+<table>
+<tbody>
+
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=136&name=Shariq Bhat"><img src="researchers/2023/Shariq Bhat.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=136&name=Shariq Bhat">Shariq Bhat</a></div> 
+ <div align="center">Monocular Depth Estimation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=137&name=Jia Ning"><img src="researchers/2023/Jia Ning.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=137&name=Jia Ning">Jia Ning</a></div> 
+ <div align="center">Monocular Depth Estimation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=138&name=Shuwei Shao"><img src="researchers/2023/Shuwei Shao.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=138&name=Shuwei Shao">Shuwei Shao</a></div> 
+ <div align="center">Monocular Depth Estimation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=139&name=Shihao Zhang"><img src="researchers/2023/Shihao Zhang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=139&name=Shihao Zhang">Shihao Zhang</a></div> 
+ <div align="center">Monocular Depth Estimation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=140&name=Licong Guan"><img src="researchers/2023/Licong Guan.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=140&name=Licong Guan">Licong Guan</a></div> 
+ <div align="center">Domain Adaptation</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=141&name=Pengcheng Xu"><img src="researchers/2023/Pengcheng Xu.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=141&name=Pengcheng Xu">Pengcheng Xu</a></div> 
+ <div align="center">Domain Adaptation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=142&name=Youmi Ma"><img src="researchers/2023/Youmi Ma.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=142&name=Youmi Ma">Youmi Ma</a></div> 
+ <div align="center">Relation Extraction</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=143&name=Ziwei Luo"><img src="researchers/2023/Ziwei Luo.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=143&name=Ziwei Luo">Ziwei Luo</a></div> 
+ <div align="center">Image Dehazing</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=144&name=Niv Cohen"><img src="researchers/2023/Niv Cohen.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=144&name=Niv Cohen">Niv Cohen</a></div> 
+ <div align="center">Anomaly Detection</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=145&name=Yunkang Cao"><img src="researchers/2023/Yunkang Cao.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=145&name=Yunkang Cao">Yunkang Cao</a></div> 
+ <div align="center">Anomaly Detection</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=146&name=Leonardo Rossi"><img src="researchers/2023/Leonardo Rossi.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=146&name=Leonardo Rossi">Leonardo Rossi</a></div> 
+ <div align="center">Video Anomaly Detection</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=147&name=Aston Zhang"><img src="researchers/2023/Aston Zhang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=147&name=Aston Zhang">Aston Zhang</a></div> 
+ <div align="center">Science Question Answering</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=148&name=Zhichen Lai"><img src="researchers/2023/Zhichen Lai.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=148&name=Zhichen Lai">Zhichen Lai</a></div> 
+ <div align="center">Correlated Time Series Forecasting</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=149&name=Kevin Joseph Scaria"><img src="researchers/2023/Kevin Joseph Scaria.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=149&name=Kevin Joseph Scaria">Kevin Joseph Scaria</a></div> 
+ <div align="center">Sentiment Analysis</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=150&name=Shuailei Ma"><img src="researchers/2023/Shuailei Ma.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=150&name=Shuailei Ma">Shuailei Ma</a></div> 
+ <div align="center">Human-Object Interaction Detection</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=151&name=Keyu Tian"><img src="researchers/2023/Keyu Tian.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=151&name=Keyu Tian">Keyu Tian</a></div> 
+ <div align="center">Instance Segmentation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=152&name=Hao Feng"><img src="researchers/2023/Hao Feng.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=152&name=Hao Feng">Hao Feng</a></div> 
+ <div align="center">Instance Segmentation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=153&name=Haiyang Wang"><img src="researchers/2023/Haiyang Wang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=153&name=Haiyang Wang">Haiyang Wang</a></div> 
+ <div align="center">3D Object Detection</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=154&name=Wenwei Zhang"><img src="researchers/2023/Wenwei Zhang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=154&name=Wenwei Zhang">Wenwei Zhang</a></div> 
+ <div align="center">Open Vocabulary Object Detection</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=155&name=Jiexing Qi"><img src="researchers/2023/Jiexing Qi.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=155&name=Jiexing Qi">Jiexing Qi</a></div> 
+ <div align="center">Text Classification</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=156&name=Chen Liang"><img src="researchers/2023/Chen Liang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=156&name=Chen Liang">Chen Liang</a></div> 
+ <div align="center">Image Classification</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=157&name=Jiahui Wang"><img src="researchers/2023/Jiahui Wang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=157&name=Jiahui Wang">Jiahui Wang</a></div> 
+ <div align="center">Fine-Grained Image Classification</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=158&name=Lukas Haas"><img src="researchers/2023/Lukas Haas.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=158&name=Lukas Haas">Lukas Haas</a></div> 
+ <div align="center">Photo geolocation estimation</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=159&name=Yiqiao Qiu"><img src="researchers/2023/Yiqiao Qiu.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=159&name=Yiqiao Qiu">Yiqiao Qiu</a></div> 
+ <div align="center">Overlapped 5-3</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=160&name=Sara Fridovich-Keil"><img src="researchers/2023/Sara Fridovich-Keil.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=160&name=Sara Fridovich-Keil">Sara Fridovich-Keil</a></div> 
+ <div align="center">Novel View Synthesis</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=161&name=Yibo Yang"><img src="researchers/2023/Yibo Yang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=161&name=Yibo Yang">Yibo Yang</a></div> 
+ <div align="center">Few-Shot Class-Incremental Learning</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=162&name=Yangsong Zhang"><img src="researchers/2023/Yangsong Zhang.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=162&name=Yangsong Zhang">Yangsong Zhang</a></div> 
+ <div align="center">Motion Synthesis</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=163&name=Runpei Dong"><img src="researchers/2023/Runpei Dong.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=163&name=Runpei Dong">Runpei Dong</a></div> 
+ <div align="center">3D Point Cloud Classification</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=164&name=Ido Galil"><img src="researchers/2023/Ido Galil.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=164&name=Ido Galil">Ido Galil</a></div> 
+ <div align="center">Classification</div>
+</td>
+<td>
+<div align="center"> 
+ <a href="https://taskswithcode.com/researchers/?author=165&name=Archan Ghosh"><img src="researchers/2023/Archan Ghosh.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ </div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=165&name=Archan Ghosh">Archan Ghosh</a></div> 
+ <div align="center">Text2text Generation</div>
+</td>
+</tr>
+</tbody>
+</table>
+
 <p><a href="https://taskswithcode.ghost.io/twc-19/"> 1 – 15 Jan 2023</a></p>
 <table>
 <tbody>
