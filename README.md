@@ -242,6 +242,7 @@ _Images below are Github profile photos of featured SOTA researchers - **165 to 
 </tr>
 </tbody>
 </table>
+<img src="divider.png"   width="1000px"/>
 
 <p><a href="https://taskswithcode.ghost.io/twc-19/"> 1 – 15 Jan 2023</a></p>
 <table>
