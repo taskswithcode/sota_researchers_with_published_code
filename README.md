@@ -70,13 +70,13 @@ _Images below are Github profile photos of featured SOTA researchers - **165 to 
  <div align="center"><a href="https://taskswithcode.com/researchers/?author=142&name=Youmi Ma">Youmi Ma</a></div> 
  <div align="center">Relation Extraction</div>
 </td>
-<td>
-<div align="center"> 
- <a href="https://taskswithcode.com/researchers/?author=143&name=Ziwei Luo"><img src="researchers/2023/Ziwei Luo.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
- </div> 
- <div align="center"><a href="https://taskswithcode.com/researchers/?author=143&name=Ziwei Luo">Ziwei Luo</a></div> 
- <div align="center">Image Dehazing</div>
-</td>
+ <td>
+    <div align="center">
+      <a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen"><img src="researchers/2023/Zixuan Chen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+    </div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen">Zixuan Chen</a></div>
+    <div align="center">Image Dehazing</div>
+  </td>
 <td>
 <div align="center"> 
  <a href="https://taskswithcode.com/researchers/?author=144&name=Niv Cohen"><img src="researchers/2023/Niv Cohen.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
@@ -255,12 +255,12 @@ _Images below are Github profile photos of featured SOTA researchers - **165 to 
     <div align="center"><a href="https://taskswithcode.com/researchers/?author=129&name=Zigang Geng">Zigang Geng</a></div>
     <div align="center">Depth Estimation</div>
   </td>
-  <td>
+    <td>
     <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen"><img src="researchers/2023/Zixuan Chen.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
+      <a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal"><img src="researchers/2023/Benjamin Attal.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
     </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=130&name=Zixuan Chen">Zixuan Chen</a></div>
-    <div align="center">Image Dehazing</div>
+    <div align="center"><a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal">Benjamin Attal</a></div>
+    <div align="center">Novel View Synthesis</div>
   </td>
   <td>
     <div align="center">
@@ -285,13 +285,6 @@ _Images below are Github profile photos of featured SOTA researchers - **165 to 
   </td>
 </tr>
 <tr>
-  <td>
-    <div align="center">
-      <a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal"><img src="researchers/2023/Benjamin Attal.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
-    </div>
-    <div align="center"><a href="https://taskswithcode.com/researchers/?author=134&name=Benjamin Attal">Benjamin Attal</a></div>
-    <div align="center">Novel View Synthesis</div>
-  </td>
    <td>
     <div align="center">
       <a href="https://taskswithcode.com/researchers/?author=135&name=Nils Reimers"><img src="researchers/2023/Nils Reimers.png"   width="100px"  align="middle" hspace="10" vspace="20"/></a>
