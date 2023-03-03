@@ -7,7 +7,7 @@ These researchers produced state-of-the-art work breaking existing records on  b
 
  
 
-_Images below are Github profile photos of featured SOTA researchers - **165 to date**_
+_Images below are Github profile photos of featured SOTA researchers - **164 to date**_
 
 
 
