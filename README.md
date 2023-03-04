@@ -14,7 +14,7 @@ _Images below are Github profile photos of featured SOTA researchers - **164 to 
  _Consider supporting open research by clicking on the researchers below to  star/sponsor them_
 <img src="divider.png"   width="1000px"/>
 
-<p>16 Jan – 1 Mar 2023</a></p>
+<p>16 Jan – 28 Feb 2023</a></p>
 <table>
 <tbody>
 
