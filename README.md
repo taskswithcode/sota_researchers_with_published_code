@@ -28,7 +28,7 @@ _Images below are Github profile photos of featured SOTA researchers - **164 to 
 </td>
 <td>
 <div align="center"> 
- <a href="https://taskswithcode.com/researchers/?author=137&name=Jia Ning"><img src="researchers/2023/Jia Ning.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ <a href="https://taskswithcode.com/researchers/?author=137&name=Jia Ning"><img src="researchers/2023/test.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
  </div> 
  <div align="center"><a href="https://taskswithcode.com/researchers/?author=137&name=Jia Ning">Jia Ning</a></div> 
  <div align="center">Monocular Depth Estimation</div>
