@@ -21,9 +21,9 @@ _Images below are Github profile photos of featured SOTA researchers - **164 to 
 <tr>
 <td>
 <div align="center"> 
- <a href="https://taskswithcode.com/researchers/?author=22071273&name=Shariq Bhat"><img src="researchers/2023/Shariq Bhat.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
+ <a href="https://taskswithcode.com/researchers/?author=22071273&author_name=Shariq F. Bhat"><img src="researchers/2023/Shariq Bhat.png"   width="100px"  align="middle" hspace="10"    vspace="20"/></a>
  </div> 
- <div align="center"><a href="https://taskswithcode.com/researchers/?author=22071273&name=Shariq Bhat">Shariq Bhat</a></div> 
+ <div align="center"><a href="https://taskswithcode.com/researchers/?author=22071273&author_name=Shariq F. Bhat">Shariq Bhat</a></div> 
  <div align="center">Monocular Depth Estimation</div>
 </td>
 <td>
