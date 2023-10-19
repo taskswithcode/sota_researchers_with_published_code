@@ -1,4 +1,23 @@
-### SOTA researchers who published code _(from Aug 2022)_
+#### An app released to find any researcher/pracitioner. Updated 18 October 2023
+We automated the aggregation of researchers and practitioners who publish papers and code. 
+
+This enabled us to feature the work of **391,404 Paper authors** and  **124,108 Code contributors** to date.  _When we started off with manual curation we could only feature 164 authors in 6 months_
+
+Here are some quick links to the true catalysts fueling AI progress
+
+- [Authors open for sponsorship](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
+- [Top Repo Authors](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors)
+- [Top Paper Authors](https://authorswithcode.com/top100/?choice=Top%20Paper%20Authors)
+- [Educators](https://authorswithcode.com/top100/?choice=Educators)
+- [Disseminators](https://authorswithcode.com/top100/?choice=Disseminators)
+- [Search for a specific author](https://authorswithcode.com)
+
+
+
+______________________________________ Prior manual curation updates ______________________________________________
+
+
+#### SOTA researchers who published code _(from Aug 2022)_
 These researchers produced state-of-the-art work breaking existing records on  benchmarks. They also
 - authored their paper
 - released their code
