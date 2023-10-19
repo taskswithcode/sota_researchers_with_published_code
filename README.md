@@ -13,7 +13,7 @@ Here are some quick links to the true catalysts fueling AI progress
 - [Search for a specific author](https://authorswithcode.com)
 
 
-[Substack Post describing this release](https://open.substack.com/pub/authorswithcode/p/who-are-the-true-catalysts-fueling?r=1tj9kd&utm_campaign=post&utm_medium=web)
+[Substack Post about this release](https://open.substack.com/pub/authorswithcode/p/who-are-the-true-catalysts-fueling?r=1tj9kd&utm_campaign=post&utm_medium=web)
 
 
 
