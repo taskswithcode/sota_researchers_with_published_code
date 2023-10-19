@@ -21,7 +21,7 @@ Here are some quick links to the true catalysts fueling AI progress
 ![true_catalysts](https://github.com/taskswithcode/sota_researchers_with_published_code/assets/93844240/29103590-ff83-418e-b237-a2ba77909e99)
 
 
-______________________________________ Prior manual curation updates ______________________________________________
+______________________________________ Prior manual curation updates ________________________________
 
 
 #### SOTA researchers who published code _(from Aug 2022)_
